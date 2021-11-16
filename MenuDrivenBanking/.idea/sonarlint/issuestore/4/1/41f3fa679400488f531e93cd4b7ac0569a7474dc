@@ -1,0 +1,23 @@
+
+A
+java:S1128	"+Remove this unused import 'java.util.Date'.(¸…¼ü
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ô¨ãÿÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(—ü¿çşÿÿÿÿ
+M	java:S106Y"9Replace this use of System.out or System.err by a logger.(»ÛË
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ü¸˜øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(•›ñ²ıÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(÷—²³
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(®ÄíÜşÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ñ¨¢Ä
+H
+java:S1128"2Remove this unused import 'com.bank.app.TransApp'.(ñ¸Óº
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(èùôÊ
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ó––Šûÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¬í·ºüÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(õÛ¹øÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(ñŠ…Ãıÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÙÍÎ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ëğÈÁÿÿÿÿÿ

@@ -1,0 +1,27 @@
+
+_
+java:S11928"IDefine a constant instead of duplicating this literal "dd/MM/yy" 4 times.(åÈŞô
+b
+java:S11922"GDefine a constant instead of duplicating this literal "amount" 5 times.(Ì¶’úÿÿÿÿ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõ½·
+f	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÙÉá
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‚‡÷şÿÿÿÿ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Şü¥
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¹
+V	java:S125 "<This block of commented-out lines of code should be removed.(—ü¿çşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¬í·ºüÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ó––Šûÿÿÿÿ
+Œ
+java:S1130+"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(â×²ûÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ãú¶©
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(‘øÒõûÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ì÷Ü°
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ÿüßôıÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(úøÀÍúÿÿÿÿ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(èÏÇš
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÚÏñõ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ÿıÒşÿÿÿÿ
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(œøŒŞ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(ª«©½ûÿÿÿÿ
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(«ùü¾ÿÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ğ¿¦ú
