@@ -1,0 +1,32 @@
+
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(«ùü¾ÿÿÿÿÿ
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹šıÿüÿÿÿÿ
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÙÉá
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¬í·ºüÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ø›óä
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8à‰‡¹Ò/
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(úøÀÍúÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ÿıÒşÿÿÿÿ
+T	java:S106W"9Replace this use of System.out or System.err by a logger.(ÈÒ†-8ÀÂÿ¸Ò/
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ó×ƒ¹Ò/
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(ª«©½ûÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(ÚÏñõ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõ½·
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ç‚¹Ò/
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ó––Šûÿÿÿÿ
+Œ
+java:S1130+"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(£Ô‹óúÿÿÿÿ
+_
+java:S11928"IDefine a constant instead of duplicating this literal "dd/MM/yy" 4 times.(åÈŞô
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(œøŒŞ
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ğ¿¦ú
+b
+java:S11922"GDefine a constant instead of duplicating this literal "amount" 5 times.(Ì¶’úÿÿÿÿ
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‚‡÷şÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÚìĞıÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ãú¶©
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(‘øÒõûÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ÿüßôıÿÿÿÿ
+U	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÈÒ†-8§£¹Ò/
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ÌòÜñÿÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(—ü¿çşÿÿÿÿ

@@ -1,12 +1,9 @@
-package com.bank.login;
+package com.bank.loginSign;
 
-import com.bank.app.Application;
-import com.bank.app.TransApp;
+import com.bank.Ui.UserInterfaceForLogin;
 
 import java.sql.*;
-import java.text.SimpleDateFormat;
 import java.text.ParseException;
-import java.util.Date;
 import java.util.Scanner;
 
 public class SignApplication {
@@ -102,7 +99,7 @@ public class SignApplication {
                 System.out.println("Succussefully Logged in with username:  "+userName);
 
 
-                Application app=new Application();
+                UserInterfaceForLogin app=new UserInterfaceForLogin();
                 app.loginApplication();
             }
         } catch (SQLException | ParseException e) {

@@ -1,4 +1,4 @@
-package com.bank.app;
+package com.bank.operations;
 
 import java.sql.*;
 import java.text.SimpleDateFormat;
@@ -40,7 +40,7 @@ public class TransApp {
         }
     }
 
-    void checkBalance(String accountNo) throws SQLException,ParseException {
+    public void checkBalance(String accountNo) throws SQLException,ParseException {
         qry="Select amount from Account where accountNumber='"+accountNo+"'";
         String amount="";
         try {
@@ -64,7 +64,7 @@ public class TransApp {
         }
 
     }
-    void deposit(String accountNo,int amount) {
+    public void deposit(String accountNo,int amount) {
         try {
 
             thePreparedStatement = dbCon.prepareStatement("select amount from Account where accountNumber=?");
@@ -100,7 +100,7 @@ public class TransApp {
             System.out.println("Sql exception occured");
         }
     }
-        void withdraw(String accountNo,int amount)
+        public void withdraw(String accountNo,int amount)
         {
             try {
 
@@ -152,7 +152,7 @@ public class TransApp {
 //Transfer the amount from one account to the another account
 
 
-        void transfer(String accountNo1,String accountNo2,int amount)
+        public void transfer(String accountNo1,String accountNo2,int amount)
         {
             TransApp app=new TransApp();
             app.withdraw(accountNo1,amount);
@@ -166,7 +166,7 @@ public class TransApp {
 
         }
 //Transaction details
-        void transaction(String accountName)
+        public void transaction(String accountName)
         {
 
             try {
@@ -194,7 +194,7 @@ public class TransApp {
 
         }
 
-    void transactionImpl(String accountName,String Action,String date)
+    public void transactionImpl(String accountName,String Action,String date)
     {
         try {
             qry="insert into transactions values(?,?,?)";

@@ -1,12 +1,12 @@
-package com.bank.app;
+package com.bank.Ui;
 
-import com.bank.login.SignApplication;
+import com.bank.operations.TransApp;
 
 import java.sql.SQLException;
 import java.text.ParseException;
 import java.util.Scanner;
 
-public class Application {
+public class UserInterfaceForLogin {
     public  void loginApplication() throws SQLException, ParseException {
         Scanner sc = new Scanner(System.in);
         int choice;
