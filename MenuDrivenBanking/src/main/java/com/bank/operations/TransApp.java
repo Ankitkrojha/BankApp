@@ -4,7 +4,7 @@ import java.sql.*;
 import java.text.SimpleDateFormat;
 import java.text.ParseException;
 import java.util.Date;
-public class TransApp {
+public class TransApp implements CheckBalance {
     public static final String URLTOCONNECT = "jdbc:mysql://localhost:3303/Bank";
 
     public static final String USERNAME = "root";
@@ -39,7 +39,7 @@ public class TransApp {
             System.out.println("Can't connect to the database : " + e.getMessage());
         }
     }
-
+    @Override
     public void checkBalance(String accountNo) throws SQLException,ParseException {
         qry="Select amount from Account where accountNumber='"+accountNo+"'";
         String amount="";
